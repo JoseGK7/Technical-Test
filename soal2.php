@@ -8,8 +8,7 @@
 </head>
 <body>
     <form action="" method="post">
-    <input type="email" name="email" id="" placeholder="email" maxlength="20" required >
-    
+    <input type="email" name="email" id="" placeholder="email" maxlength="20" require >
     <input type="submit" name= "check" value="check">
     </form>
 </body>
